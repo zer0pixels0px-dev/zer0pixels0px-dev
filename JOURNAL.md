@@ -50,3 +50,4 @@
 
 - Wiki cannabis au niveau technicien/maître grower : chapitre 8 « Irrigation » approfondi dans l'exécution planifiée du matin (15 sous-sections, quiz 7 questions + corrigé, références vérifiées) — progression 15/30 → 16/30 ; prochain chapitre : 6 « Milieux de Culture ».
 - Vérification quotidienne du programme de quiz : plafond de 3 quiz par semaine atteint (chapitres 15, 16 et 17), aucun quiz envoyé aujourd'hui ; chapitre 8 « Irrigation » ajouté à la file — chapitres 24, 25, 11, 26, 7, 27 et 8 en attente, prochain quiz possible dès la semaine du 12/10.
+- Réparation de l'archive effectuée ce soir : le JOURNAL.md distant (qui affichait le journal encodé en base64 comme texte brut depuis le 2026-10-05) a été remplacé par le journal complet en markdown lisible, entrées 03–08/10 ; README mis à jour (wiki 16/30).
